@@ -5,5 +5,3 @@ Overview of Linux OS
 
 - [Tbd](Tbd)
 - [Tbd](Tbd)
-- [Tbd](Tbd)
-
