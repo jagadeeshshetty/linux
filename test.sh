@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 pwd
 ls
 cd /tmp
